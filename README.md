@@ -1,5 +1,5 @@
-# blockchain-image-page
-Image uploading and tipping page based on blockchain and ethereum smart contracts
+# blockchain-image-dapp
+Image uploading and tipping application based on IPFS, Ethereum smart contracts and React.js
 
 ![img.png](img.png)
 
